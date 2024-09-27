@@ -1,0 +1,14 @@
+C:\Users\cristian.sabau\Desktop\EF\Tema2\bin\Debug\net8.0\Tema2.exe
+C:\Users\cristian.sabau\Desktop\EF\Tema2\bin\Debug\net8.0\Tema2.deps.json
+C:\Users\cristian.sabau\Desktop\EF\Tema2\bin\Debug\net8.0\Tema2.runtimeconfig.json
+C:\Users\cristian.sabau\Desktop\EF\Tema2\bin\Debug\net8.0\Tema2.dll
+C:\Users\cristian.sabau\Desktop\EF\Tema2\bin\Debug\net8.0\Tema2.pdb
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.AssemblyInfoInputs.cache
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.AssemblyInfo.cs
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.csproj.CoreCompileInputs.cache
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.dll
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\refint\Tema2.dll
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.pdb
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\Tema2.genruntimeconfig.cache
+C:\Users\cristian.sabau\Desktop\EF\Tema2\obj\Debug\net8.0\ref\Tema2.dll
